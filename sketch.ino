@@ -15,7 +15,7 @@
  * Safety/Error Mode has the highest priority, followed by Manual
  * Override Mode and then Autonomous Mode.
  *
- * @author Akshana Sriskandarajah
+
  */
 
 // ============================================================
